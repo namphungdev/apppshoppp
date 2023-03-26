@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\namth\eclipse-workspace\AppleShop\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3075050696.index
+3627543096.index
+2750716043.index
+3821647744.index
+468231572.index
